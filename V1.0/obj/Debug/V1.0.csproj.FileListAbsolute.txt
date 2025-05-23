@@ -7,3 +7,13 @@ E:\UCJ\2025\SCM Exams\03\V1.0\V1.0\obj\Debug\V1._0.Properties.Resources.resource
 E:\UCJ\2025\SCM Exams\03\V1.0\V1.0\obj\Debug\V1.0.csproj.GenerateResource.Cache
 E:\UCJ\2025\SCM Exams\03\V1.0\V1.0\obj\Debug\V1.0.exe
 E:\UCJ\2025\SCM Exams\03\V1.0\V1.0\obj\Debug\V1.0.pdb
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\bin\Debug\V1.0.exe.config
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\bin\Debug\V1.0.exe
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\bin\Debug\V1.0.pdb
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\obj\Debug\V1.0.csproj.AssemblyReference.cache
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\obj\Debug\V1._0.Form1.resources
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\obj\Debug\V1._0.Properties.Resources.resources
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\obj\Debug\V1.0.csproj.GenerateResource.cache
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\obj\Debug\V1.0.csproj.CoreCompileInputs.cache
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\obj\Debug\V1.0.exe
+C:\Users\UCJ JAFFNA\Desktop\CA\CA\V1.0\V1.0\obj\Debug\V1.0.pdb
